@@ -1,6 +1,6 @@
 # EurorackChordSequencer
 This project describes my built of a modular synthesizer 8-step cv sequencer module in the Eurorack format.
-The module is an extension of the sequencer module from TimMJN, making use of an Arduino Nano.
+The module is an extension of the sequencer module from @TimMJN , making use of an Arduino Nano.
 
 You can check the GitHub project from @TimMJN here:
 http://github.com/TimMJN/Arduino-Sequencer
