@@ -16,7 +16,7 @@ A demonstration video is existing on YouTube.
 The code for the Arduino Nano is taken from the sequencer project from TimMJN (link above).
 I created a new version, which includes a simple chromatic quantization of all 3 CV outputs.
 However, I could not yet test that version of the module, because I would need a multi channel DAC, the MCP4728, a quad 12-bit DAC.
-That IC is currently not available, I assume due to the global IC and micro chip shortage.
+That IC is currently not available, I assume due to the global IC and microchip shortage.
 I will update this page with the new firmware and schematic, as soon as I could purchase a chip and test the changes.
 
 Big thanks to TimMJN!
