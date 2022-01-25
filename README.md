@@ -18,9 +18,15 @@ I did not yet change anything, and the current version of the module contains th
 
 ## Quantization of CV Outputs
 I created a new Arduino code version, which includes a simple chromatic quantization of all 3 CV outputs.
-However, I could not yet test that version of the module, because I would need a multi channel DAC, the MCP4728, a quad 12-bit DAC.
+However, I could not yet build test that version of the module, because I would need a multi channel DAC, the MCP4728, a quad 12-bit DAC.
 That IC is currently not available, I assume due to the global microchip shortage.
 I will update this project with the new code and schematic, as soon as I could purchase a chip and test the changes.
+The control component layout of the module will rermain unchanged. Only the PCB with the Arduino will be changed by adding the MCP4728.
+
+## PCB Design
+I built this module, like most of my other DIY modules, using two PCB levels. One PCB is used for all control components at the front of the module. The other PCB contains most of the circuit components.
+Both PCBs are connected via standard header connectors.
+You can check out more details about my way of designing modules that way via [this YouTube video](https://youtu.be/pXtuV9Pv-m4).
 
 Big thanks to @TimMJN !
 
