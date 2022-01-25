@@ -23,7 +23,7 @@ I will update this project with the new code and schematic, as soon as I could p
 The control component layout of the module will rermain unchanged. Only the PCB with the Arduino will be changed by adding the MCP4728.
 
 ## PCB Design
-I built this module, like most of my other DIY modules, using two PCB levels. One PCB is used for all control components at the front of the module. The other PCB contains most of the circuit components.
+I built this module, like most of my other DIY modules, using two PCB levels. One PCB is used for all control components at the front of the module. The other PCB contains the larger circuit components.
 Both PCBs are connected via standard header connectors.
 You can check out more details about my way of designing modules that way via [this YouTube video](https://youtu.be/pXtuV9Pv-m4).
 
