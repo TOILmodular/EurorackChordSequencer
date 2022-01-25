@@ -1,9 +1,8 @@
 # EurorackChordSequencer
 This project gives some information about my built of a modular synthesizer 8-step CV sequencer module in the Eurorack format.
-The module is an extension of the sequencer module from @TimMJN , making use of an Arduino Nano as the central control unit.
+The module is an extension of the sequencer module from TimMJN , making use of an Arduino Nano as the central control unit.
 
-You can check the GitHub project from TimMJN here:
-http://github.com/TimMJN/Arduino-Sequencer
+Please check the [GitHub project from TimMJN](http://github.com/TimMJN/Arduino-Sequencer).
 
 There are a few changes to the original design:
 - Extension to 3 individual CV outputs for controlling chords
@@ -28,7 +27,7 @@ I built this module, like most of my other DIY modules, using two PCB levels. On
 Both PCBs are connected via standard header connectors.
 You can check out more details about my way of designing modules that way via [this YouTube video](https://youtu.be/pXtuV9Pv-m4).
 
-Big thanks to @TimMJN !
+Big thanks to TimMJN!
 
 
 ![Front](https://user-images.githubusercontent.com/97026614/150731201-aff2b512-5bf7-41cf-ba18-e26e32674c4d.JPG)
