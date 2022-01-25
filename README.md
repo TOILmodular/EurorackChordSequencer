@@ -1,8 +1,8 @@
 # EurorackChordSequencer
-This project describes my built of a modular synthesizer 8-step cv sequencer module in the Eurorack format.
-The module is an extension of the sequencer module from @TimMJN , making use of an Arduino Nano.
+This project gives some information about my built of a modular synthesizer 8-step CV sequencer module in the Eurorack format.
+The module is an extension of the sequencer module from @TimMJN , making use of an Arduino Nano as the central control unit.
 
-You can check the GitHub project from @TimMJN here:
+You can check the GitHub project from TimMJN here:
 http://github.com/TimMJN/Arduino-Sequencer
 
 There are a few changes to the original design:
@@ -13,11 +13,14 @@ There are a few changes to the original design:
 A demonstration video is existing on YouTube.
 
 ## Arduino Firmware
-The code for the Arduino Nano is taken from the sequencer project from @TimMJN .
-I created a new version, which includes a simple chromatic quantization of all 3 CV outputs.
+The code for the Arduino Nano is taken from the sequencer project from TimMJN.
+I did not yet change anything, and the current version of the module contains the same functions, as the one from Tim MJN.
+
+## Quantization of CV Outputs
+I created a new Arduino code version, which includes a simple chromatic quantization of all 3 CV outputs.
 However, I could not yet test that version of the module, because I would need a multi channel DAC, the MCP4728, a quad 12-bit DAC.
-That IC is currently not available, I assume due to the global IC and microchip shortage.
-I will update this page with the new firmware and schematic, as soon as I could purchase a chip and test the changes.
+That IC is currently not available, I assume due to the global microchip shortage.
+I will update this project with the new code and schematic, as soon as I could purchase a chip and test the changes.
 
 Big thanks to @TimMJN !
 
