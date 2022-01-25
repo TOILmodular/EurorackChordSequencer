@@ -9,7 +9,7 @@ There are a few changes to the original design:
 - Switches for each of the 8 steps to control a gate signal output for each step
 - In planning: quantization of CV outputs (see details below)
 
-A demonstration video is existing on YouTube.
+A [demonstration video](https://youtu.be/u9PBp1COE9A) can be checked on YouTube.
 
 ## Arduino Firmware
 The code for the Arduino Nano is taken from the sequencer project from TimMJN.
