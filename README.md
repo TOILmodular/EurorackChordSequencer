@@ -27,7 +27,7 @@ I built this module, like most of my other DIY modules, using two PCB levels. On
 Both PCBs are connected via standard header connectors.
 You can check out more details about my way of designing modules that way via [this YouTube video](https://youtu.be/pXtuV9Pv-m4).
 
-Big thanks to TimMJN!
+Many thanks to TimMJN!
 
 
 ![Front](https://user-images.githubusercontent.com/97026614/150731201-aff2b512-5bf7-41cf-ba18-e26e32674c4d.JPG)
