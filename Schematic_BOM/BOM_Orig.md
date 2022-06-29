@@ -21,9 +21,10 @@
 | Op Amp | TL072 | 1 | |
 | Shift Register | 74HC595 | 1 | |
 | Microcontroller | Arduino Nano | 1 | |
-| Toggle Switch | ON-ON | 11 | |
-| Switch Button | Momentary | 3 | PS-85N (Zhejiang Jianfu Electronics) |
-| Switch Button | Alternating | 2 | PB-22E85L (Xiamen Jinbeili Electronics) |
+| Toggle Switch | ON-OFF-ON | 8 | |
+| Toggle Switch | ON-ON | 3 | |
+| Pushbutton | Momentary | 3 | PS-85N (Zhejiang Jianfu Electronics) |
+| Pushbutton | Alternating | 2 | PB-22E85L (Xiamen Jinbeili Electronics) |
 | Potentiometer | B100K | 24 | |
 | Mono Jack | 3.5mm | 15 | |
 | Header | 2.54mm Male 6 Pins | 3 | Connection Control PCB - Main PCB |
