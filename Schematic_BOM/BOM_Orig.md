@@ -11,7 +11,7 @@
 | Resistor 1/4W 1% | 1M | 3 | |
 | Capacitor Electrolytic | 10uF | 3 | |
 | Capacitor Ceramic | 0.22uF | 3 | |
-| Capacitor Ceramic | 0.1uF (SMD) | 6 (1608)| |
+| Capacitor Ceramic | 0.1uF | 6 | SMD - Package 1608 |
 | Capacitor Ceramic | 0.01uF | 3 | |
 | Diode | 1N5817 | 3 | |
 | Diode | 1N4148 | 24 | |
