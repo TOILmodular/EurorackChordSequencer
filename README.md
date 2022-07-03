@@ -38,7 +38,7 @@ If you want to know about my DIY building process, take a look at those two YouT
 ## Additional Information about specific Components
 If you want to use the Gerber files for having PCBs manufactured, please note the following information about components used.
 
-- There is a number of SMD 0.1uF capacitors with the package size 0603.
+- There is a number of SMD 0.1uF capacitors with the package size 1608.
 - For the tranistors 2N3904 the SMD version MMBT3904 is used on the PCBs.
 - In order to save space, I am always using small size resistors, about 3mm length, which are about half the size of usually used resistors.
 - The switches used are a standard SPDT toggle switches. Some of them are of type ON-ON, others of type ON-OFF-ON. Please check the BOMs, which differ depending on the version (original or Thonk).
