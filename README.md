@@ -31,6 +31,9 @@ Reason is that for my own module, I am using specific potentiometers - 16K4 seri
 However, since most DIY projects for Eurorack modules out there are using potentiometers from ALPHA and so-called THONKICONN jacks, as they are provided by Thonk in the UK, I also created a version with footprints for those components. Thas version also utilizes pushbuttons and switches, which you can find at Mouser.
 Choose the one you need.
 
+I created the Gerber files with the online tool EasyEDA and ordered it at JLCPCB.
+I cannot guarantee, if this set of zipped Gerber files works also for other providers, like e.g. PCBWay. I have not tried that. But I saw online, that others did it.
+
 If you want to know about my DIY building process, take a look at those two YouTube videos:
 - [How I design PCBs for my Eurorack Synth Modules](https://youtu.be/pXtuV9Pv-m4)
 - [Eurorack Module Synth - Building an Electric Druid Wavetable Oscillator Module](https://youtu.be/ECpdo4HfqLg)
