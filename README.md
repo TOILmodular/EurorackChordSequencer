@@ -38,6 +38,11 @@ If you want to know about my DIY building process, take a look at those two YouT
 - [How I design PCBs for my Eurorack Synth Modules](https://youtu.be/pXtuV9Pv-m4)
 - [Eurorack Module Synth - Building an Electric Druid Wavetable Oscillator Module](https://youtu.be/ECpdo4HfqLg)
 
+## Panel Layout
+I added the information about hole coordinates for the front panel in the folders PanelLayout_..., referring to the component layout in the Gerber files.
+
+PLEASE NOTE! Since there is a slight difference in the location of hole no. 29 between the PCB for the "original" and the "Thonk" version, there are two different sets of coordinates. 
+
 ## Additional Information about specific Components
 If you want to use the Gerber files for having PCBs manufactured, please note the following information about components used.
 
