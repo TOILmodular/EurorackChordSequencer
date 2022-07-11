@@ -59,3 +59,7 @@ Many thanks to TimMJN!
 ![FrontSide](https://user-images.githubusercontent.com/97026614/150775298-86a71474-52ac-46d7-bc23-a0976e2a9e81.JPG)
 ![Back](https://user-images.githubusercontent.com/97026614/150775348-6887f31b-559f-4db2-9151-5f1113250aee.JPG)
 ![MainBoard](https://user-images.githubusercontent.com/97026614/150775392-d1e1c4a5-80a8-443a-8e66-608f4eda3d76.JPG)
+![ArduSeqCtrl2](https://user-images.githubusercontent.com/97026614/178224754-758cf3b9-897a-4212-a1f1-b3877e479c85.JPG)
+![ArduSeqCtrl1](https://user-images.githubusercontent.com/97026614/178224784-4968c778-2444-47d8-9ae6-7327c37938c8.JPG)
+![ArduSeqMain1](https://user-images.githubusercontent.com/97026614/178224797-28ccbf26-be66-4726-aadb-beb963a8e684.JPG)
+![ArduSeqMain2](https://user-images.githubusercontent.com/97026614/178224915-1d7b2cf2-32e2-4549-b905-9c10ba274bb0.JPG)
