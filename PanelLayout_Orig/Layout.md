@@ -1,4 +1,4 @@
-## Panel Layout
+## Panel Layout for "Original" PCB
 Coordiantes given in the table fit to the layout of components given in the PCB in folder GerberFiles_Orig.
 The numbers are referrencing to the numbers in the picture below.
 Coordinates for LEDs are given separately in the table.
@@ -35,7 +35,7 @@ Coordinate origin is the lower left corner of the panel.
 | 26 | 32.5 | 36.5 |
 | 27 | 52.5 | 36.5 |
 | 28 | 72.5 | 36.5 |
-| 29 | 37.5 | 36.5 |
+| 29 | 82.5 | 36.5 |
 | 30 | 92.5 | 36.5 |
 | 31 | 112.5 | 36.5 |
 | 32 | 132.5 | 36.5 |
