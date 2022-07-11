@@ -50,6 +50,7 @@ If you want to use the Gerber files for having PCBs manufactured, please note th
 - For the tranistors 2N3904 the SMD version MMBT3904 is used on the PCBs.
 - In order to save space, I am always using small size resistors, about 3mm length, which are about half the size of usually used resistors.
 - The switches used are a standard SPDT toggle switches. Some of them are of type ON-ON, others of type ON-OFF-ON. Please check the BOMs, which differ depending on the version (original or Thonk).
+- For the momentary pushbuttons in the "Thonk" version PCB (Mouser no. 8MS8P1B05VS2QES), two connection points are marked as connected. You need to orientate the pushbutton on the PCB in a way, that the connection is closed for those two points, when the button is pushed.
 
 Many thanks to TimMJN!
 
