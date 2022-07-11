@@ -5,7 +5,7 @@ Coordinates for LEDs are given separately in the table.
 
 Coordinate origin is the lower left corner of the panel.
 
-| No. | X-coord. | Y-coord. |
+| No. | X-coord. [mm] | Y-coord. [mm] |
 | --- | --- | --- |
 | 1 | 12.5 | 105 |
 | 2 | 32.5 | 105 |
