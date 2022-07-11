@@ -1,4 +1,4 @@
-## Panel Layout for "Thonk " PCB
+## Panel Layout for "Thonk" Version PCB
 Coordiantes given in the table fit to the layout of components given in the PCB in folder GerberFiles_Thonk.
 The numbers are referrencing to the numbers in the picture below.
 Coordinates for LEDs are given separately in the table.
