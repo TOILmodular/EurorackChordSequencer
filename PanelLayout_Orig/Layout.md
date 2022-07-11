@@ -1,4 +1,4 @@
-## Panel Layout for "Original" PCB
+## Panel Layout for "Original" Version PCB
 Coordiantes given in the table fit to the layout of components given in the PCB in folder GerberFiles_Orig.
 The numbers are referrencing to the numbers in the picture below.
 Coordinates for LEDs are given separately in the table.
