@@ -1,5 +1,5 @@
 ## Panel Layout for "Thonk" Version PCB
-Coordiantes given in the table fit to the layout of components given in the PCB in folder GerberFiles_ThonkVersion.
+Coordinates given in the table fit to the layout of components given in the PCB in folder GerberFiles_ThonkVersion.
 
 Panel size: 165mm x 128.5mm
 
