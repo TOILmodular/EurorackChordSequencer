@@ -1,6 +1,9 @@
 ## Panel Layout for "Original" Version PCB
 Coordiantes given in the table fit to the layout of components given in the PCB in folder GerberFiles_Orig.
-The numbers are referrencing to the numbers in the picture below.
+
+Panel size: 165mm x 128.5mm
+
+The numbers in the table are refering to the numbers in the picture below.
 Coordinates for LEDs are given separately in the table.
 
 Coordinate origin is the lower left corner of the panel.
