@@ -19,7 +19,7 @@ I did not yet change anything, and the current version of the module contains th
 I built this module, like most of my other DIY modules, using two PCB levels. The control PCB is used for all control components at the front of the module. The other main PCB contains the main circuit components, like the Arduino Nano.
 Both PCBs are connected via standard header connectors.
 
-## Module Built and PCBs
+## Module Build and PCBs
 If you want to want to have PCBs for the module, I uploaded a set of Gerber files.
 
 The module is built up by two PCBs, the control board with the control components going to the front panel and the main board behind it.
