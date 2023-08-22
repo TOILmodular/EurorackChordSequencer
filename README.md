@@ -7,7 +7,6 @@ Please check the [GitHub project from TimMJN](http://github.com/TimMJN/Arduino-S
 There are a few changes to the original design:
 - Extension to 3 individual CV outputs for controlling chords
 - Switches for each of the 8 steps to control a gate signal output for each step
-- In planning: quantization of CV outputs (see details below)
 
 A [demonstration video](https://youtu.be/u9PBp1COE9A) can be checked on YouTube.
 
